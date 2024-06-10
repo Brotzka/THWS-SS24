@@ -9,5 +9,5 @@ tasks:
 ports:
   - name: Frontend
     description: Port 3000 for the frontend
-    port: 3000
+    port: 5173
     onOpen: open-preview
