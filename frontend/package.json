@@ -9,13 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "algoliasearch": "^4.23.3",
+    "bootstrap": "^5.3.3",
     "instantsearch.css": "^8.2.1",
     "vue": "^3.4.21",
     "vue-instantsearch": "^4.17.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.4",
     "vite": "^5.2.0"
   }
 }
